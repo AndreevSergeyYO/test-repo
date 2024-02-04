@@ -1,0 +1,20 @@
+        .small{
+    font-size: small;
+        }
+        .xx large
+        {
+    font-size: xx-large;
+        }
+        .xx-small{
+    font-size: xx-small;
+        }
+        [class="bold"] {
+            font-weight: bold;
+        }
+        [class="bold italic"] {
+            font-weight: bold;
+            font-style: italic;
+        }
+        [class="italic"] {
+            font-style: italic;
+        }
