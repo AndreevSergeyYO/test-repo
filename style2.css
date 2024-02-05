@@ -1,0 +1,52 @@
+[class="bold"] {
+    font-weight: bold;
+}
+[class="color:rgb"] {
+    color: rgb(172, 17, 79);
+}
+[class="color:rgb1"] {
+    color: rgb(172, 17, 17);
+}
+[class="color:rgb2"] {
+    color: rgb(224, 187, 22);
+}
+[class="color:rgb3"] {
+    color: rgb(56, 17, 172);
+}
+        .xxsmall{
+    font-size: x-large;
+        }
+        .xx large
+        {
+    font-size: xx-large;
+        }
+        .x-small{
+    font-size: x-small;
+        }
+        [style="font-size: small;"]{
+            font-size: xx-large;
+        }
+        .smaller{
+        font-size: smaller;
+            }
+        .medium{
+        font-size: medium;
+         }
+         .larger{
+        font-size: larger;
+             }
+        .large{
+        font-size: large;
+        }
+        .red {
+            color: red;
+             }
+             .blue {
+                color: blue;
+                 }
+                 .green {
+                    color: green;
+                     }
+                     .yellow {
+                        color: yellow;
+                         }
